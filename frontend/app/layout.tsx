@@ -27,7 +27,7 @@ export default function RootLayout({
           <footer className="bg-white border-t">
             <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
               <div className="text-center text-gray-600">
-                <p>&copy; 2025 AI Market Sensing. All rights reserved.</p>
+                <p>&copy; 2025 Quantix. All rights reserved.</p>
                 <p className="text-sm mt-2">
                   Automated market intelligence powered by AI
                 </p>
