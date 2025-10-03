@@ -116,15 +116,15 @@ export default function HomePage() {
             {/* Left side - Main content */}
             <div className="text-left">
               <h1 className={`text-4xl md:text-6xl font-black text-white mb-6 ${playfair.className} tracking-tight leading-[1.1]`}>
-                AI-Powered{' '}
+                Next-Gen{' '}
                 <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent font-extrabold">
                   Market Intelligence
                 </span>
               </h1>
-              <p className={`text-xl md:text-2xl text-gray-200 mb-8 ${poppins.className} font-light leading-relaxed tracking-wide`}>
+              <p className={`text-xl md:text-xl text-gray-200 mb-8 ${poppins.className} font-light leading-relaxed tracking-wide`}>
                 Automate vendor selection, market research, and competitor analysis with{' '}
                 <span className="text-blue-300 font-medium">real-time insights</span> from public data sources.{' '}
-                <span className="text-purple-300 font-medium">Make informed business decisions faster.</span>
+                <span className="text-purple-300 font-medium">Smarter Insights. Stronger Decisions.</span>
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className={`text-lg px-8 py-4 bg-gradient-to-r from-blue-500 to-slate-600 hover:from-blue-500 hover:to-slate-700 border-0 shadow-xl ${poppins.className} font-semibold tracking-wide`}>
